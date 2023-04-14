@@ -3,3 +3,11 @@ Linked in : https://www.linkedin.com/pulse/launch-ecommerce-website-kamasani-sri
 
 
 ![image](https://user-images.githubusercontent.com/95044098/232076993-a5075120-2d15-42f4-98c2-fa1181452a68.png)
+
+after executation of all the commands:
+
+Output:
+
+![image](https://user-images.githubusercontent.com/95044098/232077233-40b7494b-6810-4933-ad84-7ebd74491894.png)
+
+![image](https://user-images.githubusercontent.com/95044098/232077549-62ba1f07-93c3-4d3b-a612-e41708bd022b.png)
